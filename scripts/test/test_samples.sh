@@ -17,7 +17,7 @@ dataset_choice='SAMPLES'
 test_choice='HYBRID'
 pred_choice=3
 
-python core/test.py \
+python /content/GFM/core/test.py \
 	 --cuda \
      --backbone=$backbone \
      --rosta=$rosta \
