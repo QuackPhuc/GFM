@@ -10,7 +10,7 @@ Paper link (Arxiv): https://arxiv.org/abs/2010.16188
 """
 
 ########## Root Paths and logging files paths
-REPOSITORY_ROOT_PATH = ''
+REPOSITORY_ROOT_PATH = '/content/GFM/'
 AM2K_DATASET_ROOT_PATH = ''
 BG20K_DATASET_ROOT_PATH = ''
 COCO_DATASET_ROOT_PATH = ''
