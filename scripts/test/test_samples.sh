@@ -12,7 +12,7 @@
 
 backbone='r34_2b'
 rosta='TT'
-model_path='models/pretrained/gfm_r34_2b_tt.pth'
+model_path='/content/GFM/models/pretrained/gfm_r34_2b_tt.pth'
 dataset_choice='SAMPLES'
 test_choice='HYBRID'
 pred_choice=3
